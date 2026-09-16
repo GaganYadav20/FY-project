@@ -1,0 +1,12 @@
+{
+  "465b68dc-a95e-4ab9-8b71-83804b6c595d": {
+    "id": "465b68dc-a95e-4ab9-8b71-83804b6c595d",
+    "username": "harsh",
+    "email": "harsh.sharma4131@gmail.com",
+    "hashed_password": "sha256$73c5991ac01b1fd53bd2baa079917ee3$155baecb2d222b78d49f4386f07fd89f9b200c75100beda956a85398b28bbabf",
+    "full_name": "harsh sharma",
+    "is_verified": true,
+    "verification_code": null,
+    "created_at": "2026-08-21T06:28:35.542614+00:00"
+  }
+}
