@@ -1,28 +1,41 @@
-# 🚀 Final Year Project
+# 🚀 Final Year Capstone Project
 
-A comprehensive final year capstone project repository showcasing software engineering and development skills.
-
----
-
-## 📂 Repository Contents
-
-- `.gitignore`
-- `backend`
-- `frontend`
+A full-stack final year project featuring robust backend services and a reactive frontend architecture.
 
 ---
 
-## 🛠️ Getting Started
+## ✨ Overview
+
+Welcome to **Final Year Capstone Project**! This repository is part of my development portfolio, showcasing practical implementation, clean code structure, and modern engineering workflows.
+
+---
+
+## 📂 Project Structure
+
+```text
+FY-project/
+│
+├── (Source files, components, and configuration assets)
+```
+
+---
+
+## 🚀 Getting Started
 
 ### Prerequisites
-- Clone the repository:
-  ```bash
-  git clone https://github.com/GaganYadav20/FY-project.git
-  cd FY-project
-  ```
+Make sure you have Git installed on your system.
+
+### Installation & Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/GaganYadav20/FY-project.git
+   cd FY-project
+   ```
+2. Follow specific setup instructions found in respective configuration or source files.
 
 ---
 
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
